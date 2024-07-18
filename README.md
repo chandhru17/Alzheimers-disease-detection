@@ -12,7 +12,7 @@ Identifying Mild Cognitive Impairment at the early stages is crucial for the det
 
 ## 3. Project Overview
 
-This research aims to develop a deep learning model utilizing the ResNet architecture within Convolutional Neural Networks (CNNs) for accurate classification of Alzheimer's disease (AD) from brain MRI images. The objective is to differentiate between healthy individuals and those affected by AD by leveraging the distinctive structural patterns captured by the uniquely optimized architecture. This study addresses the critical need for early and precise diagnosis of AD, facilitating timely interventions and improving patient care.
+This research aims to develop deep learning models utilizing the ResNet architecture within Convolutional Neural Networks (CNNs) and CNN-SVM architecture for accurate classification of Alzheimer's disease (AD) from brain MRI images. The objective is to differentiate between healthy individuals and those affected by AD by leveraging the distinctive structural patterns captured by the uniquely optimized architecture. This study addresses the critical need for early and precise diagnosis of AD, facilitating timely interventions and improving patient care.
 
 
 ## 4. Models
